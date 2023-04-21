@@ -1,2 +1,2 @@
-# Lab 2 - Starter
-https://codingsincebirth.github.io/Lab2_Starter/
+# sp23-cse110-lab3
+https://codingsincebirth.github.io/sp23-cse110-lab3/
